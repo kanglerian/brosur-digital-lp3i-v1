@@ -23,6 +23,10 @@ import PathRegistration from './assets/pages/PathRegistration.jsx';
 import InfoPMB from './assets/pages/InfoPMB.jsx';
 import Placement from './assets/pages/Placement.jsx';
 import Education from './assets/pages/Education.jsx';
+import MainMP from './assets/pages/MP/MainMP.jsx';
+import WorkMP from "./assets/pages/MP/WorkMP.jsx";
+import MainMKP from './assets/pages/MKP/MainMKP.jsx';
+import WorkMKP from "./assets/pages/MKP/WorkMKP.jsx";
 
 AOS.init({
   duration: 800,
@@ -76,6 +80,18 @@ const router = createBrowserRouter([
   },{
     path: '/placement',
     element: <Placement/>,
+  },{
+    path: '/mp',
+    element: <MainMP/>,
+  },{
+    path: '/mp/work',
+    element: <WorkMP/>,
+  },{
+    path: '/mkp',
+    element: <MainMKP/>,
+  },{
+    path: '/mkp/work',
+    element: <WorkMKP/>,
   },
 ]);
 

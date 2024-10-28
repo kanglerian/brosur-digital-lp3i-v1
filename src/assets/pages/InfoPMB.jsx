@@ -33,7 +33,7 @@ const InfoPMB = () => {
             <div className="w-full text-white flex flex-col justify-center items-start gap-1">
               <h1 className="text-sm font-bold drop-shadow">Kak Ratna</h1>
               <p className="text-xs drop-shadow">Klik No. WA Dibawa:</p>
-              <a href="#" target="_blank" className="text-xs drop-shadow bg-white text-whatsapp px-2 py-1.5 rounded-lg space-x-1">
+              <a href="https://wa.me/6281313608558" target="_blank" className="text-xs drop-shadow bg-white text-whatsapp px-2 py-1.5 rounded-lg space-x-1">
                 <FontAwesomeIcon icon={faWhatsapp} />
                 <span className="font-medium">0853 2415 6088</span>
               </a>
@@ -44,7 +44,7 @@ const InfoPMB = () => {
             <div className="w-full text-white flex flex-col justify-center items-start gap-1">
               <h1 className="text-sm font-bold drop-shadow">Kak Benny</h1>
               <p className="text-xs drop-shadow">Klik No. WA Dibawa:</p>
-              <a href="#" target="_blank" className="text-xs drop-shadow bg-white text-whatsapp px-2 py-1.5 rounded-lg space-x-1">
+              <a href="https://wa.me/6281313608558" target="_blank" className="text-xs drop-shadow bg-white text-whatsapp px-2 py-1.5 rounded-lg space-x-1">
                 <FontAwesomeIcon icon={faWhatsapp} />
                 <span className="font-medium">0821 2735 6645</span>
               </a>
@@ -55,7 +55,7 @@ const InfoPMB = () => {
             <div className="w-full text-white flex flex-col justify-center items-start gap-1">
               <h1 className="text-sm font-bold drop-shadow">Miss Yanti</h1>
               <p className="text-xs drop-shadow">Klik No. WA Dibawa:</p>
-              <a href="#" target="_blank" className="text-xs drop-shadow bg-white text-whatsapp px-2 py-1.5 rounded-lg space-x-1">
+              <a href="https://wa.me/6281313608558" target="_blank" className="text-xs drop-shadow bg-white text-whatsapp px-2 py-1.5 rounded-lg space-x-1">
                 <FontAwesomeIcon icon={faWhatsapp} />
                 <span className="font-medium">0812 2066 2033</span>
               </a>
@@ -66,7 +66,7 @@ const InfoPMB = () => {
             <div className="w-full text-white flex flex-col justify-center items-start gap-1">
               <h1 className="text-sm font-bold drop-shadow">Kak Ahyar</h1>
               <p className="text-xs drop-shadow">Klik No. WA Dibawa:</p>
-              <a href="#" target="_blank" className="text-xs drop-shadow bg-white text-whatsapp px-2 py-1.5 rounded-lg space-x-1">
+              <a href="https://wa.me/6281313608558" target="_blank" className="text-xs drop-shadow bg-white text-whatsapp px-2 py-1.5 rounded-lg space-x-1">
                 <FontAwesomeIcon icon={faWhatsapp} />
                 <span className="font-medium">0822 1561 4238</span>
               </a>
@@ -77,7 +77,7 @@ const InfoPMB = () => {
             <div className="w-full text-white flex flex-col justify-center items-start gap-1">
               <h1 className="text-sm font-bold drop-shadow">Kak Dyana</h1>
               <p className="text-xs drop-shadow">Klik No. WA Dibawa:</p>
-              <a href="#" target="_blank" className="text-xs drop-shadow bg-white text-whatsapp px-2 py-1.5 rounded-lg space-x-1">
+              <a href="https://wa.me/6281313608558" target="_blank" className="text-xs drop-shadow bg-white text-whatsapp px-2 py-1.5 rounded-lg space-x-1">
                 <FontAwesomeIcon icon={faWhatsapp} />
                 <span className="font-medium">0821 2932 8462</span>
               </a>
@@ -88,7 +88,7 @@ const InfoPMB = () => {
             <div className="w-full text-white flex flex-col justify-center items-start gap-1">
               <h1 className="text-sm font-bold drop-shadow">Kak Fikri</h1>
               <p className="text-xs drop-shadow">Klik No. WA Dibawa:</p>
-              <a href="#" target="_blank" className="text-xs drop-shadow bg-white text-whatsapp px-2 py-1.5 rounded-lg space-x-1">
+              <a href="https://wa.me/6281313608558" target="_blank" className="text-xs drop-shadow bg-white text-whatsapp px-2 py-1.5 rounded-lg space-x-1">
                 <FontAwesomeIcon icon={faWhatsapp} />
                 <span className="font-medium">0851 4162 1657</span>
               </a>

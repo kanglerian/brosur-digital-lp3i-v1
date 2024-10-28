@@ -17,6 +17,8 @@ export default {
         brosurfive: "#9D3EFA",
         brosursix: "#301CBB",
         whatsapp: "#60D568",
+        mp: "#162678",
+        mkp: "#C98500"
       },
       backgroundImage: {
         gradientone: "linear-gradient(to bottom left, #0BA7E2, #006DB6)",
@@ -29,6 +31,8 @@ export default {
         gradienteight: "linear-gradient(to bottom left, #7C91F3, #0241FD)",
         gradientnine: "linear-gradient(to bottom left, #EC6EAD, #3494E6)",
         gradientpractice: "linear-gradient(to bottom left, #A5FECB, #20BDFF, #5433FF)",
+        gradientmp: "linear-gradient(to bottom left, #2D44B4, #010C42)",
+        gradientmkp: "linear-gradient(to bottom left, #FFC553, #D18B00)",
         "background-one": "url('./assets/background-one.svg')",
         "background-two": "url('./assets/background-two.svg')",
         "background-three": "url('./assets/background-three.svg')",
@@ -38,6 +42,8 @@ export default {
         "background-seven": "url('./assets/background-seven.svg')",
         "background-eight": "url('./assets/background-eight.svg')",
         "background-nine": "url('./assets/background-nine.svg')",
+        "background-mp": "url('./assets/background-mp.svg')",
+        "background-mkp": "url('./assets/background-mkp.svg')",
       }
     },
   },

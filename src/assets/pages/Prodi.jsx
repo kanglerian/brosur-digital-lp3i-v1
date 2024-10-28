@@ -28,11 +28,11 @@ const Prodi = () => {
         <h2 className="text-2xl text-center text-white font-bold mt-5 drop-shadow" data-aos="fade-right" data-aos-delay="300">Program Studi<br />yang Bikin Kamu Makin Kece!</h2>
         {/* Content */}
         <div className="grid grid-cols-1 gap-3 py-10">
-          <Link to={`/why`} type="button" className="flex flex-col items-center justify-center gap-3 bg-white hover:bg-gray-50 border border-gray-200 shadow-lg rounded-2xl p-4" data-aos="fade-down" data-aos-delay="100">
+          <Link to={`/mp`} type="button" className="flex flex-col items-center justify-center gap-3 bg-white hover:bg-gray-50 border border-gray-200 shadow-lg rounded-2xl p-4" data-aos="fade-down" data-aos-delay="100">
             <img src={IconMP} alt="Icon Prodi" />
             <p className="text-sm text-left font-bold">D3 Digital Marketing Management</p>
           </Link>
-          <Link to={`/why`} type="button" className="flex flex-col items-center justify-center gap-3 bg-white hover:bg-gray-50 border border-gray-200 shadow-lg rounded-2xl p-4" data-aos="fade-down" data-aos-delay="200">
+          <Link to={`/mkp`} type="button" className="flex flex-col items-center justify-center gap-3 bg-white hover:bg-gray-50 border border-gray-200 shadow-lg rounded-2xl p-4" data-aos="fade-down" data-aos-delay="200">
             <img src={IconMKP} alt="Icon Prodi" />
             <p className="text-sm text-left font-bold">D3 Manajemen Keuangan Perbankan</p>
           </Link>

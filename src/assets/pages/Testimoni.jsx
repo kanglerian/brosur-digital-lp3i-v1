@@ -22,10 +22,10 @@ const Testimoni = () => {
         </nav>
         <h2 className="text-2xl text-center text-white font-bold mt-5 drop-shadow" data-aos="fade-right" data-aos-delay="300">Kata Mereka yang Sudah Merasakannya Langsung!</h2>
         <div className="grid grid-cols-1 gap-3 py-10" data-aos="fade-down" data-aos-delay="100">
-          <div className="relative rounded-2xl border-2 border-white/50 overflow-hidden">
+          <a href="https://www.instagram.com/reel/C4koBAhLXNq" target="_blank" className="relative rounded-2xl border-2 border-white/50 overflow-hidden">
             <img src={LearnOne} alt="Learn 1" />
-            <a href="https://www.instagram.com/lp3i.tasik/" target="_blank" className="w-full absolute text-center py-2.5 text-xs bg-black/60 text-white font-bold bottom-0">Alumni Bekerja</a>
-          </div>
+            <span className="w-full absolute text-center py-2.5 text-xs bg-black/60 text-white font-bold bottom-0">Alumni Bekerja</span>
+          </a>
           <div className="relative rounded-2xl border-2 border-white/50 overflow-hidden">
             <img src={LearnOne} alt="Learn 2" />
             <a href="https://www.instagram.com/lp3i.tasik/" target="_blank" className="w-full absolute text-center py-2.5 text-xs bg-black/60 text-white font-bold bottom-0">Alumni Berwirausaha</a>
