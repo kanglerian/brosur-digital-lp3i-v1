@@ -142,9 +142,6 @@ const WorkMKP = () => {
                 <Link to={`/mkp`} type="button">
                     <FontAwesomeIcon icon={faChevronCircleLeft} size="xl" className="text-white"/>
                 </Link>
-                <Link to={`/main`} type="button">
-                    <FontAwesomeIcon icon={faChevronCircleRight} size="xl" className="text-white"/>
-                </Link>
             </div>
         </main>
     )

@@ -25,26 +25,26 @@ const MainMKP = () => {
                 </nav>
             </section>
             <header className="relative flex items-center pt-5 pb-10">
-                <div className="w-1/2 relative ml-5 z-30 space-y-3">
+                <div className="w-1/2 relative ml-5 z-30 space-y-3" data-aos="fade-right" data-aos-delay={100}>
                     <h2 className="text-white font-bold text-2xl">D3 Manajemen Keuangan Perbankan</h2>
                     <p className="text-white text-sm">(Akreditasi Baik Sekali)</p>
                 </div>
-                <img src={CoverMKP} alt="Cover MP" className="w-1/2"/>
+                <img src={CoverMKP} alt="Cover MP" className="w-1/2" data-aos="fade-left" data-aos-delay={100} />
             </header>
-            <section className="w-full max-w-lg mx-auto pl-10 pr-5 mb-5">
+            <section className="w-full max-w-lg mx-auto pl-10 pr-5 mb-5" data-aos="fade-up" data-aos-delay={100}>
                 <ul className="text-white list-disc flex flex-col">
                     <li>Manajemen Keuangan</li>
                     <li>Manajemen Perbankan</li>
                     <li>Manajemen Perpajakan</li>
                 </ul>
             </section>
-            <section className="w-full max-w-lg mx-auto p-5">
+            <section className="w-full max-w-lg mx-auto p-5" data-aos="fade-left" data-aos-delay={100}>
                 <div className="bg-mkp drop-shadow rounded-2xl p-4 text-white space-y-3">
                     <h2 className="inline-block bg-[#FFC550] text-[#AD7300] px-5 py-2 rounded-xl font-bold">Prospek Karir</h2>
                     <p className="text-sm">Financial Analyst - Financial Controller - Business Controller - Staff Financial Reporting - Customer Service - Teller - Back Office Entrepreneur</p>
                 </div>
             </section>
-            <section className="w-full max-w-lg mx-auto p-5">
+            <section className="w-full max-w-lg mx-auto p-5" data-aos="fade-right" data-aos-delay={100}>
                 <div className="bg-mkp drop-shadow rounded-2xl p-4 text-white space-y-3">
                     <h2 className="inline-block bg-[#FFC550] text-[#AD7300] px-5 py-2 rounded-xl font-bold">Keunggulan</h2>
                     <ul className="list-disc ml-4 text-sm space-y-1.5">

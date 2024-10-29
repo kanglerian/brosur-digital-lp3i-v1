@@ -26,21 +26,21 @@ const Placement = () => {
         <h2 className="text-2xl text-center text-white font-bold mt-5 drop-shadow" data-aos="fade-right" data-aos-delay="300">Mereka yang Sudah Berkarir Diusia Muda!</h2>
         <iframe className="w-full h-auto aspect-video max-w-full rounded-2xl my-10" src="https://www.youtube.com/embed/mB2QOQNuPvM?si=7UzbZo4JtAL0OLLM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowFullScreen />
         <h2 className="text-2xl text-center text-white font-bold drop-shadow" data-aos="fade-right" data-aos-delay="300">Pilih Berdasarkan Program Studi</h2>
-        <div className="grid grid-cols-` gap-3 py-10" data-aos="fade-down" data-aos-delay="100">
-          <button type="button" className="bg-white hover:bg-white/90 flex flex-col justify-center items-center gap-3 p-5 rounded-2xl drop-shadow">
+        <div className="relative grid grid-cols-` gap-3 py-10" data-aos="fade-down" data-aos-delay="100">
+          <Link to={`/mp`} type="button" className="bg-white hover:bg-white/90 flex flex-col justify-center items-center gap-3 p-5 rounded-2xl drop-shadow">
             <img src={Iconmp} alt="Icon DM" />
             <span className="font-bold">D3 Digital Marketing Management</span>
-          </button>
-          <button type="button" className="bg-white hover:bg-white/90 flex flex-col justify-center items-center gap-3 p-5 rounded-2xl drop-shadow">
+          </Link>
+          <Link to={`/mkp`} type="button" className="bg-white hover:bg-white/90 flex flex-col justify-center items-center gap-3 p-5 rounded-2xl drop-shadow">
             <img src={Iconmkp} alt="Icon MKP" />
             <span className="font-bold">D3 Manajemen Keuangan Perbankan</span>
-          </button>
-          <button type="button" className="bg-white hover:bg-white/90 flex flex-col justify-center items-center gap-3 p-5 rounded-2xl drop-shadow">
+          </Link>
+          <Link to={`/to`} type="button" className="bg-white hover:bg-white/90 flex flex-col justify-center items-center gap-3 p-5 rounded-2xl drop-shadow">
             <img src={Iconto} alt="Icon TO" />
             <span className="font-bold">Vokasi 2 Tahun Teknik Otomotif</span>
-          </button>
+          </Link>
         </div>
-        <div className="flex justify-center items-center gap-5 mb-20">
+        <div className="relative flex justify-center items-center gap-5 mb-20">
           <Link to={`/infopmb`} type="button">
             <FontAwesomeIcon icon={faChevronCircleLeft} size="xl" className="text-white" />
           </Link>

@@ -27,6 +27,11 @@ import MainMP from './assets/pages/MP/MainMP.jsx';
 import WorkMP from "./assets/pages/MP/WorkMP.jsx";
 import MainMKP from './assets/pages/MKP/MainMKP.jsx';
 import WorkMKP from "./assets/pages/MKP/WorkMKP.jsx";
+import MainVokasi from './assets/pages/Vokasi/MainVokasi.jsx';
+import MainTO from './assets/pages/Vokasi/MainTO.jsx';
+import WorkTO from "./assets/pages/Vokasi/WorkTO.jsx";
+import MainTI from './assets/pages/Vokasi/MainTI.jsx';
+import WorkTI from "./assets/pages/Vokasi/WorkTI.jsx";
 
 AOS.init({
   duration: 800,
@@ -92,6 +97,21 @@ const router = createBrowserRouter([
   },{
     path: '/mkp/work',
     element: <WorkMKP/>,
+  },{
+    path: '/vokasi',
+    element: <MainVokasi/>,
+  },{
+    path: '/to',
+    element: <MainTO/>,
+  },{
+    path: '/to/work',
+    element: <WorkTO/>,
+  },{
+    path: '/ti',
+    element: <MainTI/>,
+  },{
+    path: '/ti/work',
+    element: <WorkTI/>,
   },
 ]);
 

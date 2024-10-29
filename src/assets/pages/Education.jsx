@@ -2,21 +2,18 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faHome } from "@fortawesome/free-solid-svg-icons/faHome"
 import { faChevronCircleLeft, faChevronCircleRight, faGlobe, } from "@fortawesome/free-solid-svg-icons"
 import { Link } from "react-router-dom"
-import LearnOne from "../learn/learn-1.jpg"
-import OrmawaOne from "../images/ormawa-1.png"
-import OrmawaTwo from "../images/ormawa-2.png"
-import OrmawaThree from "../images/ormawa-3.png"
-import OrmawaFour from "../images/ormawa-4.png"
-import OrmawaFive from "../images/ormawa-5.png"
-import OrmawaSix from "../images/ormawa-6.png"
-import OrmawaSeven from "../images/ormawa-7.png"
-import OrmawaEight from "../images/ormawa-8.png"
-import OrmawaNine from "../images/ormawa-9.png"
+import EduIconPrakuliah from "../images/edu-icon-prakuliah.svg"
+import EduIconSMT1 from "../images/edu-icon-smt1.svg"
+import EduIconSMT2 from "../images/edu-icon-smt2.svg"
+import EduIconSMT3 from "../images/edu-icon-smt3.svg"
+import EduIconSMT4 from "../images/edu-icon-smt4.svg"
+import EduIconSMT5 from "../images/edu-icon-smt5.svg"
+import EduIconSMT6 from "../images/edu-icon-smt6.svg"
 
 const Education = () => {
   return (
-    <main className="relative w-full max-w-2xl mx-auto bg-gradientsix overflow-hidden">
-      <div className="absolute w-full h-full bg-background-six bg-cover z-0"></div>
+    <main className="relative w-full max-w-2xl mx-auto bg-gradienteducation overflow-hidden">
+      <div className="absolute w-full h-full bg-background-education bg-cover z-0"></div>
       <section className="w-full max-w-lg mx-auto relative z-10 px-5 md:px-0">
         {/* Navbar */}
         <nav className="max-w-md mx-auto flex justify-between items-center py-5">
@@ -30,57 +27,92 @@ const Education = () => {
           </Link>
         </nav>
         <h2 className="text-2xl text-center text-white font-bold mt-5 drop-shadow" data-aos="fade-right" data-aos-delay="300">Alur Pendidikan D3 yang Cepat dan Praktis!</h2>
-        <div className="grid grid-cols-1 gap-3 py-10" data-aos="fade-down" data-aos-delay="100">
-          <img src={LearnOne} alt="Learn 1" className="rounded-2xl border-2 border-white/50" />
-          <img src={LearnOne} alt="Learn 2" className="rounded-2xl border-2 border-white/50" />
-          <img src={LearnOne} alt="Learn 3" className="rounded-2xl border-2 border-white/50" />
-          <img src={LearnOne} alt="Learn 4" className="rounded-2xl border-2 border-white/50" />
-        </div>
-        <h2 className="text-xl text-center text-white font-bold drop-shadow mt-4" data-aos="fade-right" data-aos-delay="300">Ragam Organisasi Mahasiswa</h2>
-        <div className="grid grid-cols-3 gap-3 py-10" data-aos="fade-down" data-aos-delay="100">
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaOne} alt="Ormawa 1" />
-            <h4 className="text-xs font-bold text-center">Badan Eksekutif Mahasiswa</h4>
+        <section className="grid grid-cols-2 gap-3 py-10" data-aos="fade-down" data-aos-delay="100">
+          <div className="bg-white rounded-xl space-y-2 p-4">
+            <img src={EduIconPrakuliah} alt="Icon"/>
+            <h2 className="font-bold text-lg">Prakuliah</h2>
+            <ul className="list-disc text-sm ml-4">
+              <li>Matrikulasi</li>
+              <li>PKKMB / PSPL</li>
+              <li>Tes Kecerdasan</li>
+              <li>Visi & Misi</li>
+            </ul>
           </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaTwo} alt="Ormawa 2" />
-            <h4 className="text-xs font-bold text-center">HIMA Manajemen Pemasaran</h4>
+          <div className="bg-white rounded-xl space-y-2 p-4">
+            <img src={EduIconSMT1} alt="Icon"/>
+            <h2 className="font-bold text-lg">Semester 1</h2>
+            <ul className="list-disc text-sm ml-4">
+              <li>Training Soft Skill</li>
+              <li>TOEIC Preparation</li>
+              <li>Badan Eksekutif Mahasiswa (BEM)</li>
+              <li>Mentoring</li>
+            </ul>
           </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaThree} alt="Ormawa 3" />
-            <h4 className="text-xs font-bold text-center">HIMA Manajemen Keuangan Perbankan</h4>
+          <div className="bg-white rounded-xl space-y-2 p-4">
+            <img src={EduIconSMT2} alt="Icon"/>
+            <h2 className="font-bold text-lg">Semester 2</h2>
+            <ul className="list-disc text-sm ml-4">
+              <li>Training Soft Skill</li>
+              <li>TOEIC Preparation</li>
+              <li>Sertifikasi TOK</li>
+              <li>Mentoring</li>
+              <li>Seminar Wajib</li>
+            </ul>
           </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaFour} alt="Ormawa 4" />
-            <h4 className="text-xs font-bold text-center">LP3I Computer Club</h4>
+          <div className="bg-white rounded-xl space-y-2 p-4">
+            <img src={EduIconSMT3} alt="Icon"/>
+            <h2 className="font-bold text-lg">Semester 3</h2>
+            <ul className="list-disc text-sm ml-4">
+              <li>Training Soft Skill</li>
+              <li>TOEIC Preparation</li>
+              <li>Company Visit</li>
+              <li>Beauty Class</li>
+            </ul>
           </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaFive} alt="Ormawa 5" />
-            <h4 className="text-xs font-bold text-center">LP3I Innovation Art Club</h4>
+          <div className="bg-white rounded-xl space-y-2 p-4">
+            <img src={EduIconSMT4} alt="Icon"/>
+            <h2 className="font-bold text-lg">Semester 4</h2>
+            <ul className="list-disc text-sm ml-4">
+              <li>Training Soft Skill</li>
+              <li>TOEIC Test</li>
+              <li>Screening Test</li>
+              <li>Table Manner</li>
+              <li>Seminar Wajib</li>
+              <li>Kuliah Kerja Nyata (KKN)</li>
+            </ul>
           </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaSix} alt="Ormawa 6" />
-            <h4 className="text-xs font-bold text-center">LP3I Moslem Association</h4>
+          <div className="bg-white rounded-xl space-y-2 p-4">
+            <img src={EduIconSMT5} alt="Icon"/>
+            <h2 className="font-bold text-lg">Semester 5</h2>
+            <ul className="list-disc text-sm ml-4">
+              <li>Sertifikasi Keahlian Peminatan</li>
+              <li>Magang/Kuliah Kerja Industri (KKI)</li>
+            </ul>
           </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaSeven} alt="Ormawa 7" />
-            <h4 className="text-xs font-bold text-center">LP3I Otomotif Club</h4>
+          <div className="bg-white rounded-xl space-y-2 p-4">
+            <img src={EduIconSMT6} alt="Icon"/>
+            <h2 className="font-bold text-lg">Semester 6</h2>
+            <ul className="list-disc text-sm ml-4">
+              <li>Tugas Akhir</li>
+              <li>Penempatan Kerja</li>
+              <li>Wisuda</li>
+            </ul>
           </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaEight} alt="Ormawa 8" />
-            <h4 className="text-xs font-bold text-center">LP3I Sport Club</h4>
-          </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaNine} alt="Ormawa 9" />
-            <h4 className="text-xs font-bold text-center">Student English Association of LP3I</h4>
-          </div>
+        </section>
+        <div className="bg-white p-4 rounded-2xl space-y-2 mb-10">
+          <h2 className="font-bold text-lg">Bekerja & Berbisnis Sebelum Wisuda</h2>
+          <ul className="list-disc text-sm ml-4">
+            <li>Ijazah</li>
+            <li>Transkip Nilai</li>
+            <li>SKPI</li>
+          </ul>
         </div>
         <div className="flex justify-center items-center gap-5 mb-20">
           <Link to={`/practice`} type="button">
-            <FontAwesomeIcon icon={faChevronCircleLeft} size="xl" className="text-white" />
+            <FontAwesomeIcon icon={faChevronCircleLeft} size="xl" className="text-white"/>
           </Link>
           <Link to={`/facility`} type="button">
-            <FontAwesomeIcon icon={faChevronCircleRight} size="xl" className="text-white" />
+            <FontAwesomeIcon icon={faChevronCircleRight} size="xl" className="text-white"/>
           </Link>
         </div>
       </section>

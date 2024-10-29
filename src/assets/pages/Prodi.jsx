@@ -36,7 +36,7 @@ const Prodi = () => {
             <img src={IconMKP} alt="Icon Prodi" />
             <p className="text-sm text-left font-bold">D3 Manajemen Keuangan Perbankan</p>
           </Link>
-          <Link to={`/why`} type="button" className="flex flex-col items-center justify-center gap-3 bg-white hover:bg-gray-50 border border-gray-200 shadow-lg rounded-2xl p-4" data-aos="fade-down" data-aos-delay="100">
+          <Link to={`/vokasi`} type="button" className="flex flex-col items-center justify-center gap-3 bg-white hover:bg-gray-50 border border-gray-200 shadow-lg rounded-2xl p-4" data-aos="fade-down" data-aos-delay="100">
             <img src={IconVokasi} alt="Icon Prodi" />
             <p className="text-sm text-left font-bold">Program Vokasi 2 Tahun</p>
           </Link>

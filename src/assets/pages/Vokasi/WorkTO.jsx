@@ -10,10 +10,10 @@ import {Link} from 'react-router-dom'
 import MRafi from '../../cnp/mp/muhammad-rafi.png'
 import {faSchool} from "@fortawesome/free-solid-svg-icons/faSchool";
 
-const WorkMP = () => {
+const WorkTO = () => {
     return (
-        <main className="relative w-full max-w-2xl mx-auto bg-gradientmp overflow-hidden">
-            <div className="absolute w-full h-full bg-background-mp bg-cover z-0"></div>
+        <main className="relative w-full max-w-2xl mx-auto bg-gradientto overflow-hidden">
+            <div className="absolute w-full h-full bg-background-to bg-cover z-0"></div>
             <section className="w-full max-w-lg mx-auto relative z-10 px-5 md:px-0">
                 {/* Navbar */}
                 <nav className="max-w-md mx-auto flex justify-between items-center py-5">
@@ -139,7 +139,7 @@ const WorkMP = () => {
                 </div>
             </section>
             <div className="relative flex justify-center items-center gap-5 mb-20 mt-10">
-                <Link to={`/mp`} type="button">
+                <Link to={`/to`} type="button">
                     <FontAwesomeIcon icon={faChevronCircleLeft} size="xl" className="text-white"/>
                 </Link>
             </div>
@@ -147,4 +147,4 @@ const WorkMP = () => {
     )
 }
 
-export default WorkMP
+export default WorkTO
