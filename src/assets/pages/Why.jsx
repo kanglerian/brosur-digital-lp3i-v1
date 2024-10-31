@@ -25,45 +25,45 @@ const Why = () => {
           <h2 className="font-bold text-white text-xl" data-aos="fade-down" data-aos-delay="150">Kenapa Harus Politeknik LP3I?</h2>
           {/* List */}
           <div className="space-y-3">
-            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4" data-aos="fade-left" data-aos-delay="200">
+            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4 w-[275px]" data-aos="fade-left" data-aos-delay="200">
               <span className="block bg-brosursix/80 border-2 border-white/30 text-white text-sm font-bold p-3 rounded-2xl shadow-lg">01</span>
-              <p className="text-white text-sm">Mendapatkan Penempatan Kerja mulai Semester 6.</p>
+              <p className="text-white text-xs">Mendapatkan Penempatan Kerja mulai Semester 6.</p>
             </div>
-            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4" data-aos="fade-left" data-aos-delay="300">
+            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4 w-[275px]" data-aos="fade-left" data-aos-delay="300">
               <span className="block bg-brosursix/80 border-2 border-white/30 text-white text-sm font-bold p-3 rounded-2xl shadow-lg">02</span>
-              <p className="text-white text-sm">Mendapatkan Akreditasi Institusi Baik Sekali (B).</p>
+              <p className="text-white text-xs">Mendapatkan Akreditasi Institusi Baik Sekali (B).</p>
             </div>
-            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4" data-aos="fade-left" data-aos-delay="400">
+            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4 w-[275px]" data-aos="fade-left" data-aos-delay="400">
               <span className="block bg-brosursix/80 border-2 border-white/30 text-white text-sm font-bold p-3 rounded-2xl shadow-lg">03</span>
-              <p className="text-white text-sm">Kurikulum berbasis vokasi, link and match dengan dunia kerja, lebih banyak praktek dari pada teori.</p>
+              <p className="text-white text-xs">Kurikulum berbasis vokasi, link and match dengan dunia kerja, lebih banyak praktek dari pada teori.</p>
             </div>
-            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4" data-aos="fade-left" data-aos-delay="100">
+            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4 w-[275px]" data-aos="fade-left" data-aos-delay="100">
               <span className="block bg-brosursix/80 border-2 border-white/30 text-white text-sm font-bold p-3 rounded-2xl shadow-lg">04</span>
-              <p className="text-white text-sm">Dosen praktisi dan akademisi berpengalaman.</p>
+              <p className="text-white text-xs">Dosen praktisi dan akademisi berpengalaman.</p>
             </div>
-            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4" data-aos="fade-left" data-aos-delay="200">
+            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4 w-[275px]" data-aos="fade-left" data-aos-delay="200">
               <span className="block bg-brosursix/80 border-2 border-white/30 text-white text-sm font-bold p-3 rounded-2xl shadow-lg">05</span>
-              <p className="text-white text-sm">Pembelajaran menggunakan LMS (Learning Manajemen System) Online dan Offline.</p>
+              <p className="text-white text-xs">Pembelajaran menggunakan LMS (Learning Manajemen System) Online dan Offline.</p>
             </div>
-            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4" data-aos="fade-left" data-aos-delay="300">
+            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4 w-[275px]" data-aos="fade-left" data-aos-delay="300">
               <span className="block bg-brosursix/80 border-2 border-white/30 text-white text-sm font-bold p-3 rounded-2xl shadow-lg">06</span>
-              <p className="text-white text-sm">Memiliki Relasi Perusahaan (MOU) yang Tersebar di Indonesia.</p>
+              <p className="text-white text-xs">Memiliki Relasi Perusahaan (MOU) yang Tersebar di Indonesia.</p>
             </div>
-            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4" data-aos="fade-left" data-aos-delay="400">
+            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4 w-[275px]" data-aos="fade-left" data-aos-delay="400">
               <span className="block bg-brosursix/80 border-2 border-white/30 text-white text-sm font-bold p-3 rounded-2xl shadow-lg">07</span>
-              <p className="text-white text-sm">Lokasi Kampus Strategis ditengah Kota Tasikmalaya, berdekatan dengan Starbucks 2, Mixue Djuanda, Pizza Hut, McDonalds, KFC, Transmart, Bioskop XXI, SPBU.</p>
+              <p className="text-white text-xs">Lokasi Kampus Strategis ditengah Kota Tasikmalaya, berdekatan dengan Starbucks 2, Mixue Djuanda, Pizza Hut, McDonalds, KFC, Transmart, Bioskop XXI, SPBU.</p>
             </div>
-            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4" data-aos="fade-left" data-aos-delay="100">
+            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4 w-[275px]" data-aos="fade-left" data-aos-delay="100">
               <span className="block bg-brosursix/80 border-2 border-white/30 text-white text-sm font-bold p-3 rounded-2xl shadow-lg">08</span>
-              <p className="text-white text-sm">Gedung Kampus 4 Lantai, Lift, Lahan Parkir, Fasilitas Lengkap dan Nyaman.</p>
+              <p className="text-white text-xs">Gedung Kampus 4 Lantai, Lift, Lahan Parkir, Fasilitas Lengkap dan Nyaman.</p>
             </div>
-            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4" data-aos="fade-left" data-aos-delay="200">
+            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4 w-[275px]" data-aos="fade-left" data-aos-delay="200">
               <span className="block bg-brosursix/80 border-2 border-white/30 text-white text-sm font-bold p-3 rounded-2xl shadow-lg">09</span>
-              <p className="text-white text-sm">Mendapatkan Sertfikasi Kompetensi dari BNSP.</p>
+              <p className="text-white text-xs">Mendapatkan Sertfikasi Kompetensi dari BNSP.</p>
             </div>
-            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4" data-aos="fade-left" data-aos-delay="300">
+            <div className="bg-brosurfive/30 border-2 border-white/30 rounded-2xl p-3 flex items-center gap-4 w-[275px]" data-aos="fade-left" data-aos-delay="300">
               <span className="block bg-brosursix/80 border-2 border-white/30 text-white text-sm font-bold p-3 rounded-2xl shadow-lg">10</span>
-              <p className="text-white text-sm">Mahasiswa dibekali materi Training Soft Skill, Beauty Class dan Table Manner.</p>
+              <p className="text-white text-xs">Mahasiswa dibekali materi Training Soft Skill, Beauty Class dan Table Manner.</p>
             </div>
           </div>
           <div className="flex justify-center items-center gap-5">

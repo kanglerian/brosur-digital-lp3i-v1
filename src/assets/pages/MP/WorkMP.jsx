@@ -137,6 +137,604 @@ const WorkMP = () => {
                         </div>
                     </div>
                 </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full" />
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full" />
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div className="flex flex-col items-start bg-white rounded-xl overflow-hidden">
+                    <img src={MRafi} alt="Photo" className="w-full"/>
+                    <div className={`p-4 space-y-2`}>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faBriefcase} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Bekerja di</h3>
+                                <p className={`font-bold`}>PT. Maya Graha Indah</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faUser} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Posisi</h3>
+                                <p className={`font-bold`}>Marketing</p>
+                            </div>
+                        </div>
+                        <div className="flex gap-3">
+                            <FontAwesomeIcon icon={faSchool} className="mt-1"/>
+                            <div className={`text-sm`}>
+                                <h3>Asal Sekolah</h3>
+                                <p className={`font-bold`}>SMAN 4 Tasikmalaya</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </section>
             <div className="relative flex justify-center items-center gap-5 mb-20 mt-10">
                 <Link to={`/mp`} type="button">

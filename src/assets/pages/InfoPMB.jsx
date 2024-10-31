@@ -26,7 +26,7 @@ const InfoPMB = () => {
             <span className="text-gray-800 text-sm">Beranda</span>
           </Link>
         </nav>
-        <h2 className="text-2xl text-center text-white font-bold mt-5 drop-shadow" data-aos="fade-right" data-aos-delay="300">Informasi PMB, Langsung dari Kaka-kaka yang Kece!</h2>
+        <h2 className="text-2xl text-center text-white font-bold mt-5 drop-shadow" data-aos="fade-right" data-aos-delay="300">Informasi PMB, Langsung <span className="font-light">dari</span> Kaka-kaka <span className="font-light">yang</span> Kece!</h2>
         <div className="grid grid-cols-1 gap-3 py-10" data-aos="fade-down" data-aos-delay="100">
           <div className="w-full bg-whatsapp drop-shadow flex items-center gap-2 rounded-xl overflow-hidden">
             <img src={PresenterRatna} alt="PresenterRatna" className="w-24 h-24" />

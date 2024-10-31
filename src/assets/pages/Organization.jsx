@@ -36,52 +36,54 @@ const Organization = () => {
           <img src={LearnOne} alt="Learn 3" className="rounded-2xl border-2 border-white/50" />
           <img src={LearnOne} alt="Learn 4" className="rounded-2xl border-2 border-white/50" />
         </div>
-        <h2 className="text-xl text-center text-white font-bold drop-shadow mt-4" data-aos="fade-right" data-aos-delay="300">Ragam Organisasi Mahasiswa</h2>
-        <div className="grid grid-cols-3 gap-3 py-10" data-aos="fade-down" data-aos-delay="100">
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaOne} alt="Ormawa 1" />
-            <h4 className="text-xs font-bold text-center">Badan Eksekutif Mahasiswa</h4>
+        <div className="w-screen py-10 bg-white rounded-t-3xl px-8 mt-10 -ml-5" data-aos="fade-down" data-aos-delay="100">
+          <h2 className="text-xl text-center text-black font-bold drop-shadow mt-4" data-aos="fade-right" data-aos-delay="300">Ragam Organisasi Mahasiswa</h2>
+          <div className="grid grid-cols-3 gap-3 py-10" data-aos="fade-down" data-aos-delay="100">
+            <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
+              <img src={OrmawaOne} alt="Ormawa 1" />
+              <h4 className="text-xs font-bold text-center">Badan Eksekutif Mahasiswa</h4>
+            </div>
+            <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
+              <img src={OrmawaTwo} alt="Ormawa 2" />
+              <h4 className="text-xs font-bold text-center">HIMA Manajemen Pemasaran</h4>
+            </div>
+            <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
+              <img src={OrmawaThree} alt="Ormawa 3" />
+              <h4 className="text-xs font-bold text-center">HIMA Manajemen Keuangan Perbankan</h4>
+            </div>
+            <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
+              <img src={OrmawaFour} alt="Ormawa 4" />
+              <h4 className="text-xs font-bold text-center">LP3I Computer Club</h4>
+            </div>
+            <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
+              <img src={OrmawaFive} alt="Ormawa 5" />
+              <h4 className="text-xs font-bold text-center">LP3I Innovation Art Club</h4>
+            </div>
+            <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
+              <img src={OrmawaSix} alt="Ormawa 6" />
+              <h4 className="text-xs font-bold text-center">LP3I Moslem Association</h4>
+            </div>
+            <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
+              <img src={OrmawaSeven} alt="Ormawa 7" />
+              <h4 className="text-xs font-bold text-center">LP3I Otomotif Club</h4>
+            </div>
+            <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
+              <img src={OrmawaEight} alt="Ormawa 8" />
+              <h4 className="text-xs font-bold text-center">LP3I Sport Club</h4>
+            </div>
+            <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
+              <img src={OrmawaNine} alt="Ormawa 9" />
+              <h4 className="text-xs font-bold text-center">Student English Association of LP3I</h4>
+            </div>
           </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaTwo} alt="Ormawa 2" />
-            <h4 className="text-xs font-bold text-center">HIMA Manajemen Pemasaran</h4>
+          <div className="flex justify-center items-center gap-5 mb-20">
+            <Link to={`/testimoni`} type="button">
+              <FontAwesomeIcon icon={faChevronCircleLeft} size="xl" className="text-black" />
+            </Link>
+            <Link to={`/pathregistration`} type="button">
+              <FontAwesomeIcon icon={faChevronCircleRight} size="xl" className="text-black" />
+            </Link>
           </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaThree} alt="Ormawa 3" />
-            <h4 className="text-xs font-bold text-center">HIMA Manajemen Keuangan Perbankan</h4>
-          </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaFour} alt="Ormawa 4" />
-            <h4 className="text-xs font-bold text-center">LP3I Computer Club</h4>
-          </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaFive} alt="Ormawa 5" />
-            <h4 className="text-xs font-bold text-center">LP3I Innovation Art Club</h4>
-          </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaSix} alt="Ormawa 6" />
-            <h4 className="text-xs font-bold text-center">LP3I Moslem Association</h4>
-          </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaSeven} alt="Ormawa 7" />
-            <h4 className="text-xs font-bold text-center">LP3I Otomotif Club</h4>
-          </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaEight} alt="Ormawa 8" />
-            <h4 className="text-xs font-bold text-center">LP3I Sport Club</h4>
-          </div>
-          <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
-            <img src={OrmawaNine} alt="Ormawa 9" />
-            <h4 className="text-xs font-bold text-center">Student English Association of LP3I</h4>
-          </div>
-        </div>
-        <div className="flex justify-center items-center gap-5 mb-20">
-          <Link to={`/testimoni`} type="button">
-            <FontAwesomeIcon icon={faChevronCircleLeft} size="xl" className="text-white" />
-          </Link>
-          <Link to={`/pathregistration`} type="button">
-            <FontAwesomeIcon icon={faChevronCircleRight} size="xl" className="text-white" />
-          </Link>
         </div>
       </section>
     </main>
