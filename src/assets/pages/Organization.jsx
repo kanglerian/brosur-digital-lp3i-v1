@@ -36,7 +36,8 @@ const Organization = () => {
           <img src={LearnOne} alt="Learn 3" className="rounded-2xl border-2 border-white/50" />
           <img src={LearnOne} alt="Learn 4" className="rounded-2xl border-2 border-white/50" />
         </div>
-        <div className="w-screen py-10 bg-white rounded-t-3xl px-8 mt-10 -ml-5" data-aos="fade-down" data-aos-delay="100">
+        {/* <div className="w-screen md:w-screen py-10 bg-white rounded-t-3xl px-8 mt-10 -ml-5" data-aos="fade-down" data-aos-delay="100"> */}
+        <div className="bg-white px-8 py-8 rounded-t-3xl">
           <h2 className="text-xl text-center text-black font-bold drop-shadow mt-4" data-aos="fade-right" data-aos-delay="300">Ragam Organisasi Mahasiswa</h2>
           <div className="grid grid-cols-3 gap-3 py-10" data-aos="fade-down" data-aos-delay="100">
             <div className="bg-gray-50 border-2 border-gray-400/50 flex flex-col justify-center items-center gap-3 px-5 py-2.5 rounded-xl">
